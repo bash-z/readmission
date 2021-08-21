@@ -1,0 +1,109 @@
+some results...
+learningRate = 0.001 # Feel free to play around with this if you'd like, though this value will do
+num_epochs = 1000 # Feel free to play around with this if you'd like, though this value will do
+batch_size = 30
+
+
+##RANDOM SEED 7
+for multiplier = 1
+F1 (Class 0): 0.9489172681843421
+F1 (Class 1): 0.2520325203252033
+done training
+for multiplier = 1.33
+F1 (Class 0): 0.9420536051340128
+F1 (Class 1): 0.3523206751054852
+done training
+for multiplier = 1.66
+F1 (Class 0): 0.9330499468650373
+F1 (Class 1): 0.4191114836546521
+done training
+for multiplier = 2
+F1 (Class 0): 0.9204657588316558
+F1 (Class 1): 0.42836879432624114
+
+##RANDOM SEED 10 
+for multiplier = 1
+F1 (Class 0): 0.9432314410480349
+F1 (Class 1): 0.2176696542893726
+
+for multiplier = 1.25
+F1 (Class 0): 0.9422715306506205
+F1 (Class 1): 0.3237885462555066
+
+for multiplier = 1.5
+F1 (Class 0): 0.935929407251103
+F1 (Class 1): 0.40250447227191416
+
+for multiplier = 1.75
+F1 (Class 0): 0.9300379488177483
+F1 (Class 1): 0.4325177584846094
+
+for multiplier = 2
+F1 (Class 0): 0.9160183522840615
+F1 (Class 1): 0.4453227931488801
+
+##RANDOM SEED 34
+F1 (Class 0): 0.938081981376596
+F1 (Class 1): 0.4276841171251109
+
+for multiplier = 1.75
+F1 (Class 0): 0.9293345094580024
+F1 (Class 1): 0.46234153616703955
+
+for multiplier = 2
+F1 (Class 0): 0.9189458973847077
+F1 (Class 1): 0.46788990825688076
+
+for multiplier = 2.25
+F1 (Class 0): 0.89856567949644
+F1 (Class 1): 0.4695089044792229
+
+for multiplier = 2.5
+F1 (Class 0): 0.8860971524288107
+F1 (Class 1): 0.4538152610441767
+
+#RANDOM SEED 100
+for multiplier = 1.5
+F1 (Class 0): 0.9348739495798318
+F1 (Class 1): 0.3638059701492537
+
+for multiplier = 1.6
+F1 (Class 0): 0.9320257667531967
+F1 (Class 1): 0.3814523184601925
+
+for multiplier = 1.7
+F1 (Class 0): 0.9283216783216783
+F1 (Class 1): 0.4086538461538462
+
+for multiplier = 1.8
+F1 (Class 0): 0.9265867212635274
+F1 (Class 1): 0.41491841491841497
+
+for multiplier = 1.9
+F1 (Class 0): 0.9201063934587725
+F1 (Class 1): 0.41780330222541273
+
+for multiplier = 2.0
+F1 (Class 0): 0.9135016901968582
+F1 (Class 1): 0.41453566621803495
+
+##RANDOM SEED 9
+for multiplier = 1.75
+F1 (Class 0): 0.9278189621537261
+F1 (Class 1): 0.42724458204334365
+
+for multiplier = 1.8
+F1 (Class 0): 0.9253380364491476
+F1 (Class 1): 0.43049327354260086
+
+for multiplier = 1.85
+F1 (Class 0): 0.9213150360351466
+F1 (Class 1): 0.4367491166077739
+
+
+
+
+
+###################################
+### BEST MULTIPLIER: 1.8 ##########
+###################################

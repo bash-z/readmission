@@ -1,0 +1,65 @@
+####testing out diff learning rates (epoch = 1000, batchsize = 30, multiplier  = 1.8)
+
+#SEED 9
+learning rate = 0.001
+F1 (Class 0): 0.9240580847723704
+F1 (Class 1): 0.42751479289940825
+
+learning rate = 0.002
+F1 (Class 0): 0.9255923242608185
+F1 (Class 1): 0.42857142857142855
+
+learning rate = 0.003
+F1 (Class 0): 0.9275956284153004
+F1 (Class 1): 0.4274691358024691
+
+learning rate = 0.004
+F1 (Class 0): 0.9243598548023153
+F1 (Class 1): 0.4293116210214656
+
+learning rate = 0.005
+F1 (Class 0): 0.9335257335257336
+F1 (Class 1): 0.39860748476936464
+
+learning rate = 0.006
+F1 (Class 0): 0.9168575126954097
+F1 (Class 1): 0.44370419720186544
+
+learning rate = 0.007
+F1 (Class 0): 0.9133480088052831
+F1 (Class 1): 0.44129032258064516
+
+learning rate = 0.008
+F1 (Class 0): 0.9273862970915479
+F1 (Class 1): 0.4268104776579352
+
+learning rate = 0.009
+F1 (Class 0): 0.9258787819445804
+F1 (Class 1): 0.43125469571750563
+
+learning rate = 0.010
+F1 (Class 0): 0.9190207156308852
+F1 (Class 1): 0.43848797250859106
+
+
+#SEED 423
+for learning rate = 0.001
+F1 (Class 0): 0.9271858855638951
+F1 (Class 1): 0.41867704280155643
+
+for learning rate = 0.0025
+F1 (Class 0): 0.9312445604873802
+F1 (Class 1): 0.4089775561097257
+
+for learning rate = 0.005
+F1 (Class 0): 0.9358925143953934
+F1 (Class 1): 0.40569395017793597
+
+for learning rate = 0.0075
+F1 (Class 0): 0.9226231442336054
+F1 (Class 1): 0.42680262199563
+
+for learning rate = 0.01
+F1 (Class 0): 0.9349601306561629
+F1 (Class 1): 0.4035242290748899
+
